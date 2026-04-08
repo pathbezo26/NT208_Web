@@ -73,7 +73,7 @@ Dự án hướng tới trải nghiệm người dùng mượt mà: đăng nhậ
 ```
 webchat_realtime/
 ├── frontend/                             ← ReactJS + Vite
-│   ├── public/                           ← Chứa file tĩnh public nếu cần
+│   ├── public/                          
 │   ├── src/
 │   │   ├── assets/                       ← Ảnh, icon, avatar mặc định, logo
 │   │   │
